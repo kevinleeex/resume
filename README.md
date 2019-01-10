@@ -3,6 +3,7 @@ This repo contains personal resume. see: [Resume](https://github.com/kevinleeex/
 
 ## Content
 [English Resume](https://github.com/kevinleeex/resume/blob/master/pdf/resume-en.pdf)
+
 [Chinese Resume](https://github.com/kevinleeex/resume/blob/master/pdf/resume-ch.pdf)
 
 ## License
